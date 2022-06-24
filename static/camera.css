@@ -1,0 +1,100 @@
+.smit{
+    height: 400px;
+    width:400px;
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    margin-left: 35%;
+    margin-top:20px;
+}
+.logo_container{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+  }
+  
+.logos{
+    display: flex;
+    flex-directions: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+}
+  
+.asset{
+    width: 15%;
+}
+.heading{
+    font-size: 70px;
+    background-color: red;
+    color: white;
+    height: 100px;
+
+}
+.heading p{
+    text-align: center;
+    padding-top:0px;
+}
+
+.box-c{
+    margin-top: 130px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding: 0px;
+    align-items: center;
+    
+}
+
+.box a{
+    color: white;
+    text-decoration: none;
+   
+}
+.ans{
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+.ans a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color:black ;
+    padding: 10px;
+    font-size: medium;
+}
+.box{
+    margin: auto;
+    
+}
+.box button{
+    width: 500px;
+    height: 70px;
+}
+.add{
+    width: 400px;
+    height: 50px;
+    margin-bottom: 40px;
+}
+.second{
+    width: 600px;
+    margin: auto;
+    margin-top: 40px;
+   margin-bottom: 30px;
+}
+.text2{
+    font-size: 23px;
+    display: inline;
+}
+.text3{
+    display: inline;
+    font-size: 23px;
+}
+.hh{
+    text-align: center;
+}
+.hh2{
+    text-align: center;
+    margin-top: 40px;
+}
